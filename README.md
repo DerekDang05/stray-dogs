@@ -35,7 +35,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![Screenshot 2023-11-17 at 3 21 48 PM](https://github.com/DerekDang05/stray-dogs/assets/142350017/408f5cbe-20ec-4fce-9dfa-76419cf96acf)
 
-* Deployed link: https://DerekDang05.github.io/stray-dogs
+* Deployed link: https://arcane-sands-02433-25299d62d389.herokuapp.com/
 * Public Github repo: https://github.com/DerekDang05/stray-dogs
 
 ## Technologies
